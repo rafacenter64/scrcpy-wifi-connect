@@ -1,4 +1,5 @@
 #! /bin/bash
+clear
 echo "connect scrcpy by wifi!"
 echo "connect the cable temporarily"
 sleep 3
